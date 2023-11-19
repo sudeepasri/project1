@@ -2,7 +2,8 @@
   
 int main()  
 {  
-    int A;  
+    int A; 
+  printf("number checking");
   
     printf("Enter the number A: ");  
     scanf("%d", &A);  
